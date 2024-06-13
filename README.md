@@ -2,7 +2,7 @@
 
 To install and run in termux:
 apt update && apt upgrade
-apt install got
+apt install git
 apt install python3
 git clone https://github.com/SoloTech01/GasGuru.git
 cd GasGuru
