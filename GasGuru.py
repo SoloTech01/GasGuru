@@ -1,5 +1,7 @@
+import os
 import time
 import sys
+os.system("clear")
 print("""\033[1;34;40m
 
 ░██████╗░░█████╗░░██████╗░██████╗░██╗░░░██╗██████╗░██╗░░░██╗
