@@ -6,4 +6,4 @@ apt install git
 apt install python3
 git clone https://github.com/SoloTech01/GasGuru.git
 cd GasGuru
-python3 GasGuru
+python3 GasGuru.py
