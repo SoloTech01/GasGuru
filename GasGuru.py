@@ -11,7 +11,7 @@ print("""\033[1;34;40m
 ╚██████╔╝██║░░██║██████╔╝╚██████╔╝╚██████╔╝██║░░██║╚██████╔╝
 ░╚═════╝░╚═╝░░╚═╝╚═════╝░░╚═════╝░░╚═════╝░╚═╝░░╚═╝░╚═════╝░
 """)
-print("""\033[1;33;40m[+] Coded by SoloTech
+print("""\033[1;33;40m[+] Created by Solomon Adenuga
 [✓] GasGuru v1.0 is a tool for solving gas laws based questions""")
 def Boyles_law():
 	print("\nSIMPLY SKIP ANY PARAMETER THAT IS NOT GIVEN,THE PARAMETER YOU SKIP IS WHAT THIS PROGRAM WILL SOLVE FOR")
